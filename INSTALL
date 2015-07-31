@@ -1,0 +1,8 @@
+installation for dev
+1. sudo mkdir /data
+2. sudo chown USER /data
+3. make env
+
+installation for release
+1. ...
+
